@@ -432,6 +432,9 @@ footer a:hover {
 .google-plus span {
     background-color: #db5a3c;
 }
+.linkedin span {
+    background-color: #0077b5;
+}
 
 /* Icons */
 .icon-button i {
@@ -459,7 +462,7 @@ footer a:hover {
     color: #db5a3c;
 }
 .icon-button .fa-linkedin {
-    color: #3c5998;
+    color: #0077b5;
 }
 .icon-button:hover .fa-twitter,
 .icon-button:hover .fa-facebook,
