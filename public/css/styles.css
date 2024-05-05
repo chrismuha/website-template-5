@@ -28,7 +28,6 @@ a {
 }
 
 /* header */
-
 header {
     background: linear-gradient(to right, #aedfff, white, #ffd6cc);
     min-height: 80vh;
@@ -132,8 +131,8 @@ header .header-links a:first-child {
     height: 240px;
     border: 6pt #006571 solid;
 }
-/* video section */
 
+/* video section */
 .video-section {
     position: relative;
     padding-bottom: 39.375%;
@@ -265,8 +264,8 @@ iframe {
         background-position: 0% 50%;
     }
 } */
-/* custom sections */
 
+/* custom sections */
 .custom-section-1 {
     position: relative;
     border-radius: 12pt;
@@ -355,6 +354,7 @@ iframe {
     line-height: 24pt;
     padding: 12pt;
 }
+
 /* footer */
 footer {
     background-color: skyblue;
@@ -524,7 +524,6 @@ footer a:hover {
     color: #111;
 }
 
-
 .review-slider {
     margin-left: 240.01pt;
     width: 480.01pt;
@@ -591,7 +590,7 @@ footer a:hover {
     background-color: #187bcd;
 }
 
-/* Upper layer codes */
+/* upper layer codes */
 .box-wrapper p{
     margin-bottom: 18pt;
 }
