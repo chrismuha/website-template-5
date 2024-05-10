@@ -208,12 +208,15 @@ iframe {
 .purchase-methods a:hover {
     opacity: 90%;
 }
+
 .other-writings {
     margin: 24pt 0;
 }
+
 .other-writings h5 {
     margin-bottom: 24pt;
 }
+
 .other-writings img {
     max-width: 100%;
     margin-bottom: 18pt;
@@ -250,11 +253,13 @@ iframe {
 /* .larger-box {
     max-width: 600px;
 }
+
 .other-writings-text-2 {
     text-align: center;
     font-weight: bold;
     margin: 24pt auto;
 } */
+
 /* biography section */
 
 #biography {
@@ -270,9 +275,11 @@ iframe {
     0% {
         background-position: 0% 50%;
     }
+
     50% {
         background-position: 100% 50%;
     }
+
     100% {
         background-position: 0% 50%;
     }
